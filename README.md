@@ -1,6 +1,16 @@
 
 # Neovim Keyboard Shortcuts Cheatsheet
+## TODO 
 
+[] - Setup indent guides
+
+[] - Setup autocompletion
+[] - Setup auto closing pairs
+[] - Setup commenting plugins
+[] - Setup todo comments
+
+[] - Setup commenting plugins
+[] - Setup git and copilote
 ## Leader Key
 - `<leader>` is set to **space**
 
@@ -14,7 +24,7 @@
 
 ## Numbers
 - `<leader>+` → Increment number
-- `<leader>-` → Decrement number
+- `<leader>-` → Decrement number ec
 
 ---
 
